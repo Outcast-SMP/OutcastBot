@@ -1,2 +1,5 @@
 # OutcastBot
-A discord bot for the Outcast SMP server.
+
+A discord bot created in python using the dearpygui for the interface.
+
+Made by illusion.
